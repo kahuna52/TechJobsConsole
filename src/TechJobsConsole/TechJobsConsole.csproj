@@ -11,4 +11,8 @@
     <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="bin\Debug\netcoreapp2.0\job_data.csv" />
+  </ItemGroup>
+
 </Project>
